@@ -1,6 +1,6 @@
 ![](./readmeImg/banner.png)
 
-# Shaif's Cuisine 👨‍🍳
+# Shifat-s-Cuisine 👨‍🍳
 
 **Live preview: [click me](https://shifat-s-cuisine.netlify.app/)**
 
